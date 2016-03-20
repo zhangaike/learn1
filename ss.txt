@@ -2,16 +2,7 @@ afdasdf
 
 asfdasdfasdfasdf
 
-<<<<<<< HEAD
+
 Creating a new branch is quick 444 simple.
 
-
-
-
-afdsssssssssssssssssssss
-=======
-Creating a new branch is quick 3 simple.
-
-aaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> dev
 
